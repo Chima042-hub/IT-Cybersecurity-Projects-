@@ -1,7 +1,15 @@
-# IT & Cybersecurity Projects Roadmap
+# IT-Cybersecurity-Learning-Roadmap
+
+This repository tracks my long-term hands-on learning roadmap across IT support, networking, cybersecurity, system administration, cloud and scripting.
+
+The roadmap contains projects I plan to complete throughout my career development. A checked item indicates work I have personally completed or practiced. Where available, completed projects link to documentation or evidence.
+
+This repository is a learning tracker and does not represent 85 completed projects.
+
+
+
 **85+ Hands-On Projects for IT Support, Networking, Cybersecurity & Cloud**
 
----
 
 ## IT Support & Help Desk Projects
 
